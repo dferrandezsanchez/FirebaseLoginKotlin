@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "207949673683",
+    "firebase_url": "https://chat-e7e8f.firebaseio.com",
+    "project_id": "chat-e7e8f",
+    "storage_bucket": "chat-e7e8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207949673683:android:e61b6923a86dcc21",
+        "android_client_info": {
+          "package_name": "danielferrandez.com.firebaseloginkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207949673683-p9blnrk33ir0c6kh9bts7v6h8g21jnl1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "danielferrandez.com.firebaseloginkotlin",
+            "certificate_hash": "eaafceb6bd9fea586c427584c2220686f1c78903"
+          }
+        },
+        {
+          "client_id": "207949673683-khmoo6205763e5qkmdnbpvakdchqreuo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "207949673683-khmoo6205763e5qkmdnbpvakdchqreuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4bW_2oiWg7yCio61_klwZ93AoXbDTHNM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207949673683-khmoo6205763e5qkmdnbpvakdchqreuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
