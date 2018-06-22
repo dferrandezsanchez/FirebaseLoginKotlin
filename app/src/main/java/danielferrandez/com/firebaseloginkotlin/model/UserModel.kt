@@ -3,7 +3,7 @@ package danielferrandez.com.firebaseloginkotlin.model
 import com.google.firebase.database.IgnoreExtraProperties
 
 @IgnoreExtraProperties
-data class User(
+data class UserModel(
         val userid: String? = null,
         val email: String? = null,
         val firstname: String? = null,
